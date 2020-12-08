@@ -1,4 +1,0 @@
-a. it would have taken many hours manually, or an hour (give or take) using ctrl+f
-b. using bash scripts can save many hours of work, and Netanyahu is more frequantly mentioned than Gantz :).
-c. i. using cron function to make a periodic check, or using another script with 'watch' command.
-   ii. we will use 'unique' in process of re-making the article list and by that add only new articles.
